@@ -1,0 +1,8 @@
+body {
+    background: radial-gradient(rgb(253, 196, 196),#fff);
+    font-family: Arial, verdana;
+}
+h1{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: red;
+}
